@@ -1,4 +1,4 @@
-# Project Name
+# Project of comparing different types of Neural networks
 
 All project details are in the description file.  
 
