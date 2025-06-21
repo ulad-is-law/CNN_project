@@ -3,7 +3,8 @@
 All project details are in the description file.  
 
 ### Requirements  
+Unzip the .csv file before running the project.
 Install dependencies:  
 ```bash
 pip install -r requirements.txt
-Unzip the .csv file before running the project.
+
